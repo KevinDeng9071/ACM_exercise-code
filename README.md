@@ -1,4 +1,18 @@
-ACM_exercise-code
-=================
+博主声明
+========
+该共享源码均源于    
+刘汝佳老师
+《算法竞赛入门经典——训练指南》代码仓库
+原资源库地址http://code.google.com/p/aoapc-book/
 
-ACM_exercise code for OVaOJ connecting to 算法竞赛入门训练指南
+本人只为学习共享该部分源码
+
+仅会在原文件基础上编辑添加
+题目注释
+代码注释
+自己的学习心得
+知识总结
+
+在此感谢原书作者提供的CODE
+
+
